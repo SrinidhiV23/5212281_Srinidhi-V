@@ -8,6 +8,22 @@ git status
 
 git commit -m "<commit msg>"
 
-git log // use anywhere 
+git log - use anywhere 
 
 git push
+-------------
+branching
+
+main 
+-Dev-> PR
+|-FeatureBranching
+- TaskBranch1 -> pr : Lead review -> merge Dev
+- TaskBranch2
+- TaskBranch3
+|
+
+-QA-> QA testing
+-Stage-> QA testing -> Client testing/Sprint Demo
+
+-Prod-> Go Live	
+    
