@@ -11,3 +11,7 @@ int b=0;
 double d=0.0;
 
 }
+// some code from task1 branch
+void main(){
+print something
+}
