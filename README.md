@@ -11,3 +11,10 @@
 <img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/linux/linux_commands3.jpg" alt="image">
 
 <img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/linux/linux_commands4.jpg" alt="image">
+
+<img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/linux/linux_commands5.jpg" alt="image">
+
+<img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/linux/linux_commands6.jpg" alt="image">
+
+<img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/linux/linux_commands7.jpg" alt="image">
+
