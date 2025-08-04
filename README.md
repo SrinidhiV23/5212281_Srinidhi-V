@@ -18,3 +18,5 @@
 
 <img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/linux/linux_commands7.jpg" alt="image">
 
+<img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/C_Programming/sololearn_begginer_C.jpg" alt="image">
+
