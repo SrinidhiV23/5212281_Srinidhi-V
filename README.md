@@ -18,8 +18,7 @@
 
 <img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/linux/linux_commands7.jpg" alt="image">
 
-
-<img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/C_Programming/5212281_Srinidhi%20V(Sololearn%20Certificate).jpg" alt="image>
-
 <img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/C_Programming/5212281_Srinidhi%20V(Sololearn%20Certificate_intermediate).jpg" alt="image" >
+
+<img src="https://github.com/SrinidhiV23/5212281_Srinidhi-V/blob/main/C_Programming/5212281_Srinidhi%20V(Sololearn%20Certificate).jpg" alt="image">
 
