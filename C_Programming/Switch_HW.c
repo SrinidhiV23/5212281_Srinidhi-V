@@ -21,7 +21,7 @@ int main(){
                break;
         case 7: printf("sunday\n");
                break;
-        default: printf("Invalid . Enter correct choice\n");
+        default: printf("Invalid\n");
     }              
 
     }while(day < 1 || day > 7);
